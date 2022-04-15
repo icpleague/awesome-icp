@@ -1,4 +1,4 @@
-## 教程
+## Doc
 
 * [NnsDao/dfinity-sdk-docs](https://github.com/NnsDao/dfinity-sdk-docs) Dfinity Rust develop doc
 
@@ -12,7 +12,7 @@
 
 * [CodingDay/2022.03.26](https://github.com/rebase-network/CodingDay/tree/main/2022.03.26) 
 
-## 开发环境
+## IDEs
 
 * [Visual Studio Code](https://code.visualstudio.com/)
   * [Motoko](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko) offical motoko plug
@@ -25,13 +25,13 @@
 
 * [chainide](https://chainide.com/s/createTempProject/dfinity/) A tool to help learn, code, build, and deploy smart contracts and decentralized applications.
 
-## 部署
+## deploy
 
 * [FleekHQ/IC-Deploy-Action](https://github.com/FleekHQ/IC-Deploy-Action) Github action that wraps dfx commands to deploy canisters to Dfinity on push 
 
 * [aviate-labs/setup-dfx](https://github.com/aviate-labs/setup-dfx)  Set up your GitHub Actions workflow with a specific version of the Internet Computer SDK 
 
-## SDK
+## CDK & Agent
 
 * [ic4j/ic4j-agentJ](https://github.com/ic4j/ic4j-agent) Java Agent
 
@@ -50,9 +50,9 @@
 * [mix-labs/IC-Go](https://github.com/mix-labs/IC-Go) Golang CDK
 
 
-## 前端相关
+## front-end
 
-#### II认证
+#### II authentication
 
 * [krpeacock/auth-client-demo](https://github.com/krpeacock/auth-client-demo)  Example demo of how to use https://www.npmjs.com/package/@dfinity/auth-client to make authenticated calls to an IC app
 
@@ -62,7 +62,7 @@
 
 * [gabrielnic/dfinity-react](https://github.com/gabrielnic/dfinity-react) Boilerplate ReactJS/Typescript with authentication to a local II
 
-#### 框架模板
+#### Starter&Template
 * React
   * [NnsDAO-tech/NnsDao-Frontend-template-React](https://github.com/NnsDAO-tech/NnsDao-Frontend-template-React) NnsDao-Frontend-template-React
 
@@ -110,9 +110,9 @@
 
   * [MioQuispe/create-ic-app](https://github.com/MioQuispe/create-ic-app) Use your favourite frontend framework with the Internet Computer 
 
-## 基础库
+## lib
 
-#### storage 存储
+#### Storage
 
 * [gabrielnic/motoko-cdn](https://github.com/gabrielnic/motoko-cdn) Motoko cdn/storage solution. ie: mini big-map 
 
@@ -126,17 +126,17 @@
 
 * [paulyoung/icfs](https://github.com/paulyoung/icfs) Internet Computer File System
 
-#### Cryptography 密码学
+#### Cryptography
 
 * [enzoh/motoko-sha](https://github.com/enzoh/motoko-sha) The SHA Package 
 
-#### Algorithms 算法
+#### Algorithms
 
 * [DepartureLabsIC/revo](https://github.com/DepartureLabsIC/revo) L Systems on the IC 
 
 * [enzoh/motoko-qr](https://github.com/enzoh/motoko-qr) The Motoko QR Package 
 
-#### Log 日志
+#### Log
 
 * [ninegua/ic-logger](https://github.com/ninegua/ic-logger) Motoko library to help create an append-only logger actor
 
@@ -163,7 +163,7 @@
 
 * [iclighthouse/DRC_standards](https://github.com/iclighthouse/DRC_standards) Dfinity Request for Comments standards
 
-### icp&cycles
+### ICP & Cycles
 
 * [aviate-labs/icp-canister](https://github.com/aviate-labs/icp-canister) A canister that holds ICP 
 
@@ -175,7 +175,7 @@
 
 ## DAPP
 
-#### Game游戏
+#### Game
 
 * [jesssekeogh/bonsai_dapp](https://github.com/jesssekeogh/bonsai_dapp) Repository for the Kontribute Internet Computer Dapp 
 
