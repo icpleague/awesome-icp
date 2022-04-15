@@ -1,4 +1,3 @@
-[toc]
 ## Doc
 
 * [NnsDao/dfinity-sdk-docs](https://github.com/NnsDao/dfinity-sdk-docs) Dfinity Rust develop doc
