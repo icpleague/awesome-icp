@@ -1,3 +1,29 @@
+[EN](https://github.com/icpleague/awesome-icp/blob/main/readme.md) | [中文](https://github.com/icpleague/awesome-icp/blob/main/readme.md)
+
+- [教程](#教程)
+- [开发环境](#开发环境)
+- [部署](#部署)
+- [SDK](#sdk)
+- [前端相关](#前端相关)
+    - [II认证](#ii认证)
+    - [框架模板](#框架模板)
+- [基础库](#基础库)
+    - [存储](#存储)
+    - [密码学](#密码学)
+    - [算法](#算法)
+    - [日志](#日志)
+    - [Token&NFT](#tokennft)
+    - [ICP&cycles](#icpcycles)
+- [DAPP](#dapp)
+    - [Game游戏](#game游戏)
+    - [博客](#博客)
+    - [音乐](#音乐)
+    - [看板](#看板)
+    - [视频](#视频)
+- [其他](#其他)
+  ****
+
+
 ## 教程
 
 * [NnsDao/dfinity-sdk-docs](https://github.com/NnsDao/dfinity-sdk-docs) Dfinity Rust开发指南
@@ -112,7 +138,7 @@
 
 ## 基础库
 
-#### storage 存储
+#### 存储
 
 * [gabrielnic/motoko-cdn](https://github.com/gabrielnic/motoko-cdn) Motoko实现的cdn存储方案 如: 微型的big-map
 
@@ -126,17 +152,17 @@
 
 * [paulyoung/icfs](https://github.com/paulyoung/icfs) IC上的文件系统
 
-#### Cryptography 密码学
+#### 密码学
 
 * [enzoh/motoko-sha](https://github.com/enzoh/motoko-sha) The SHA Package SHA算法库
 
-#### Algorithms 算法
+#### 算法
 
 * [DepartureLabsIC/revo](https://github.com/DepartureLabsIC/revo) IC 上的L系统实现
 
 * [enzoh/motoko-qr](https://github.com/enzoh/motoko-qr) 二维码库
 
-#### Log 日志
+#### 日志
 
 * [ninegua/ic-logger](https://github.com/ninegua/ic-logger) 九瓜的IC日志服务
 
@@ -164,7 +190,7 @@
 
 * [iclighthouse/DRC_standards](https://github.com/iclighthouse/DRC_standards) iclighthouse的DRC标准
 
-#### icp&cycles
+#### ICP&cycles
 
 * [aviate-labs/icp-canister](https://github.com/aviate-labs/icp-canister) canister持有ICP示例代码
 
@@ -186,7 +212,7 @@
 
 * [liqMix/DPlay](https://github.com/liqMix/DPlay) 一个小的竞猜游戏demo
 
-#### Blog
+#### 博客
 
 * [Mulander-J/dfinity-starter](https://github.com/Mulander-J/dfinity-starter) 博客前端demo
 
@@ -194,21 +220,21 @@
 
 * [hansl/journey](https://github.com/hansl/journey) 一个博客引擎
 
-#### Music
+#### 音乐
 
 * [muses-fm/muses](https://github.com/muses-fm/muses) MUSES.FM 是ICP上的一个音乐平台
 
-#### Kanban
+#### 看板
 
 * [aedile-ic/landing]https://github.com/aedile-ic/landing 看板工具
 
 * [krpeacock/ic-vcf-gatsby](https://github.com/krpeacock/ic-vcf-gatsby) 地址本工具
 
-#### Video 视频
+#### 视频
 
 * [dfinity/cancan](https://github.com/dfinity/cancan) 官方的类似抖音的小视频分享平台
 
-## Other
+## 其他
 
 * [hyplabs/dfinity-oracle-framework](https://github.com/hyplabs/dfinity-oracle-framework) 预言机
 
@@ -229,3 +255,5 @@ http-request-streaming-callback-does-not-stream-chunks-anymore/11298)
 * [chmllr/qu](https://github.com/chmllr/qu) Quill的简化版本
 
 * [HassenSaidi/IC_sqlite](https://github.com/HassenSaidi/IC_sqlite) 把sqilte编译到IC上的实验
+
+

@@ -1,3 +1,28 @@
+[EN](https://github.com/icpleague/awesome-icp/blob/main/readme.md) | [中文](https://github.com/icpleague/awesome-icp/blob/main/readme.md)
+
+- [Doc](#doc)
+- [IDEs](#ides)
+- [Deploy](#deploy)
+- [CDK&Agent](#cdkagent)
+- [Front-end](#front-end)
+    - [II authentication](#ii-authentication)
+    - [Starter&Template](#startertemplate)
+- [Lib](#lib)
+    - [Storage](#storage)
+    - [Cryptography](#cryptography)
+    - [Algorithms](#algorithms)
+    - [Log](#log)
+    - [Token&NFT](#tokennft)
+  - [ICP & Cycles](#icp--cycles)
+- [DAPP](#dapp)
+    - [Game](#game)
+    - [Blog](#blog)
+    - [Music](#music)
+    - [Kanban](#kanban)
+    - [Video](#video)
+- [Other](#other)
+****
+
 ## Doc
 
 * [NnsDao/dfinity-sdk-docs](https://github.com/NnsDao/dfinity-sdk-docs) Dfinity Rust develop doc
@@ -25,13 +50,13 @@
 
 * [chainide](https://chainide.com/s/createTempProject/dfinity/) A tool to help learn, code, build, and deploy smart contracts and decentralized applications.
 
-## deploy
+## Deploy
 
 * [FleekHQ/IC-Deploy-Action](https://github.com/FleekHQ/IC-Deploy-Action) Github action that wraps dfx commands to deploy canisters to Dfinity on push 
 
 * [aviate-labs/setup-dfx](https://github.com/aviate-labs/setup-dfx)  Set up your GitHub Actions workflow with a specific version of the Internet Computer SDK 
 
-## CDK & Agent
+## CDK&Agent
 
 * [ic4j/ic4j-agentJ](https://github.com/ic4j/ic4j-agent) Java Agent
 
@@ -50,7 +75,7 @@
 * [mix-labs/IC-Go](https://github.com/mix-labs/IC-Go) Golang CDK
 
 
-## front-end
+## Front-end
 
 #### II authentication
 
@@ -110,7 +135,7 @@
 
   * [MioQuispe/create-ic-app](https://github.com/MioQuispe/create-ic-app) Use your favourite frontend framework with the Internet Computer 
 
-## lib
+## Lib
 
 #### Storage
 
