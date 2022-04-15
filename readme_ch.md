@@ -1,5 +1,5 @@
-[EN](https://github.com/icpleague/awesome-icp/blob/main/readme.md) | [中文](https://github.com/icpleague/awesome-icp/blob/main/readme.md)
-
+[EN](https://github.com/icpleague/awesome-icp) | [中文](https://github.com/icpleague/awesome-icp/blob/main/readme_ch.md)
+****
 - [教程](#教程)
 - [开发环境](#开发环境)
 - [部署](#部署)
@@ -22,7 +22,6 @@
     - [视频](#视频)
 - [其他](#其他)
   ****
-
 
 ## 教程
 

@@ -1,5 +1,5 @@
-[EN](https://github.com/icpleague/awesome-icp/blob/main/readme.md) | [中文](https://github.com/icpleague/awesome-icp/blob/main/readme.md)
-
+[EN](https://github.com/icpleague/awesome-icp) | [中文](https://github.com/icpleague/awesome-icp/blob/main/readme_ch.md)
+****
 - [Doc](#doc)
 - [IDEs](#ides)
 - [Deploy](#deploy)
